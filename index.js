@@ -1,6 +1,6 @@
 const APPLICATION_ID = 'app_peln2crirofp6upddo000';
 const ENVIRONMENT = 'sandbox';
-const BASE_URL = 'https://35.194.40.41:8001/api';
+const BASE_URL = 'https://35.194.40.41/api';
 
 class TellerStore {
   constructor() {
